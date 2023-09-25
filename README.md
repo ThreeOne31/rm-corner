@@ -1,1 +1,1 @@
-# rm-corner
+# Gamazine and Granite Corner
